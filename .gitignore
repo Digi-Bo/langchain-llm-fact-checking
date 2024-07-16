@@ -1,0 +1,5 @@
+.env
+TEMP/
+venv/
+db/
+__pycache__/
