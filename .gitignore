@@ -3,3 +3,4 @@ TEMP/
 venv/
 db/
 __pycache__/
+notebook/
